@@ -211,12 +211,18 @@
     font-size: 1.5rem;
     border: none;
 }
+.search-area1 > input:focus{
+    outline: none;
+}
 .search-area2 > input{
     height: 120px;
     width: 200px;
     background-color: white;
     border: none;
     font-size: 1.5rem;
+}
+.search-area2 > input:focus{
+    outline: none;
 }
 .search-area3{
     height: 120px;
